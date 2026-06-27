@@ -1,4 +1,6 @@
 aiogram==3.4.1
 groq
 aiohttp
+pydantic==1.10.13
+
 
